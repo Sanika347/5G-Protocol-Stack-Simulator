@@ -1,0 +1,9 @@
+[2026-02-10 14:22:01] UE Powered ON
+[2026-02-10 14:22:02] NAS: Authentication Started
+[2026-02-10 14:22:03] NAS: Authentication Success
+[2026-02-10 14:22:04] RRC: Connection Established
+[2026-02-10 14:22:05] PDCP: Data Encrypted
+[2026-02-10 14:22:05] RLC: Data Segmented
+[2026-02-10 14:22:06] MAC: Packet Scheduled
+[2026-02-10 14:22:07] PHY: Data Transmitted
+[2026-02-10 14:22:07] UE: Transmission Completed
