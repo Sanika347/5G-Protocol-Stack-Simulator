@@ -1,6 +1,6 @@
-#include "../include/pdcp.h"
+#include "../include/rlc.h"
 #include <iostream>
 
-void PDCP::encrypt(std::string data) {
-    std::cout << "[PDCP] Encrypting data: " << data << std::endl;
+void RLC::segment(std::string data) {
+    std::cout << "[RLC] Segmenting data: " << data << std::endl;
 }
